@@ -58,14 +58,14 @@ artificial cornea's colour.
 **Ship Class**: Flamewing  
 **Codename**: NM-EEA-Y  
 
-[OperatorClass]: ../../classes/operator.md
-[Kal-71]: ../../factions/kal-71.md
-[ArcCity]: ../../cities/arc-city.md
-[NEμBOT]: ../../concepts/neubot.md
-[LiquidElectronPlasma]: ../../materials/liquid-electron-plasma.md
-[NoirBlades]: ../../weapons/noir-blades.md
-[Sxiry]: ../../weapons/sxiry.md
-[BowOfDestruction]: ../../weapons/bow-of-destruction.md
-[Aelia]: ../aelia.md
-[Alestra]: ../alestra.md
-[Evlyn]: ../evlyn.md
+[OperatorClass]: ../classes/operator.md
+[Kal-71]: ../factions/kal-71.md
+[ArcCity]: ../cities/arc-city.md
+[NEμBOT]: ../concepts/neubot.md
+[LiquidElectronPlasma]: ../materials/liquid-electron-plasma.md
+[NoirBlades]: ../weapons/noir-blades.md
+[Sxiry]: ../weapons/sxiry.md
+[BowOfDestruction]: ../weapons/bow-of-destruction.md
+[Aelia]: ./aelia.md
+[Alestra]: ./alestra.md
+[Evlyn]: ./evlyn.md
