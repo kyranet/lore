@@ -4,9 +4,9 @@
 
 ## Biographical information
 
-| Earth Name                            | Age     | Birthday                  | Place of Birth     |
-| :-----------------------------------: | :-----: | :-----------------------: | :----------------: |
-| {{Earth Name (Possibly not a thing)}} | {{Age}} | {{Birthday (YYYY/MM/DD)}} | {{Place of Birth}} |
+| Earth Name                | Age     | Birthday                  | Place of Birth     |
+| :-----------------------: | :-----: | :-----------------------: | :----------------: |
+| {{Earth Name (optional)}} | {{Age}} | {{Birthday (YYYY/MM/DD)}} | {{Place of Birth}} |
 
 ## Physical description
 
