@@ -23,9 +23,9 @@
 - **Father**: {{Name}}
 - **Mother**: {{Name}}
 - **Siblings**:
-    - {{Name (possibly link)}}
+    - {{Name (link, leave "None" if the character has no siblings)}}
 - **Cousins**:
-    - {{Name (possibly link)}}
+    - {{Name (link, leave "None" if the character has no cousins)}}
 
 ## Occupations
 
