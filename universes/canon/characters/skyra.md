@@ -20,7 +20,7 @@ led to the first [NEμBOT].
 1. Skyra is natural blonde, however, the limitations in the materials used to make her hair after she transitioned to a
 cyborg led her to have a bright cyan colour. Nevertheless, after her 75 millionth birthday, she was gift the technology
 to make her hair blonde again by manipulating the light around her hair fibers.
-2. Skyra's eyes are of trillions of colours, as it is made of nano components of one entirely unique tone each, thus
+1. Skyra's eyes are of trillions of colours, as it is made of nano components of one entirely unique tone each, thus
 causing optical illusions and rainbows when looking at them. However, they look bright violet in the distance due to her
 artificial cornea's colour.
 
