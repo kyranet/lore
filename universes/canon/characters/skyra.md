@@ -61,7 +61,7 @@ artificial cornea's colour.
 [OperatorClass]: ../classes/operator.md
 [Kal-71]: ../factions/kal-71.md
 [ArcCity]: ../cities/arc-city.md
-[NEμBOT]: ../concepts/neubot.md
+[NEμBOT]: ../technologies/neubot.md
 [LiquidElectronPlasma]: ../materials/liquid-electron-plasma.md
 [NoirBlades]: ../weapons/noir-blades.md
 [Sxiry]: ../weapons/sxiry.md
