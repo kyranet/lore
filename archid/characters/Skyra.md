@@ -30,7 +30,13 @@ In 2010, Evangelyn met [[Evlyn]] at a clinic in [[Arc City]] and kept close cont
 In March 2013, [[Kal-71]] ended [[Nova]]'s 5 year peace with a large invasion attack and starting the [[Second Novan War]], which prompted Evangelyn to come back to the military and focus in the defense of [[Nova]].
 
 ### 2047-2058
-Evangelyn's health worsened during this decade, requiring multiple surgeries as complications with her [ventricular assist device](https://en.wikipedia.org/wiki/Ventricular_assist_device) appeared alongside multiple infections from her previous expeditions outside [[Nova]] affecting her lungs and liver. Despite Novan medicine being very advanced, Evangelyn's health issues weren't reacting as effectively as hoped, leading to the acceleration of the development of the Cyborg Program, which could potentially improve her damaged organs with synthetic ones.
+In April 2047, Evangelyn requested [[Aelia]] the possibility to build a [[Nexerium]] starship so she could travel to [[Earth]] and see how her family was doing after decades of being separated from her. This trip would finally happen in 2048, and Evangelyn would stay there for a week staying at her parents' house.
+
+However, during this time, Evangelyn noticed the political landscape in many places of [[Earth]] were filled with hate and destruction, and this prompted her to talk about the possibility of stablishing formal relations between [[Nova]] and [[Earth]]. This proposal led to the founding of two organizations: the [[Political Management Organization]] in 2050 to deal with the politics of having an allied planet, and the [[Allied Planetary Defence Organization]] in 2051 to defend [[Earth]] against possible [[Kal-71]] attacks.
+
+In June 2053, a Novan convoy led by Evangelyn and with members of the [[Political Management Organization|PMO]] and the [[Allied Planetary Defence Organization|APDO]] arrived Jupiter, with Evangelyn heading alone to [[Earth]] with her [[Nexerium]] starship displaying white lights to signal her peaceful intentions akin to a [white flag](https://en.wikipedia.org/wiki/White_flag). Her arrival was met with resistance since the US army was sending signals that Novan technology in Evangelyn's starship couldn't properly communicate with, due to protocol incompatibilities in the communication the army was trying to establish. Evangelyn dodged the defensive projectiles and eventually entered inside the US territory and landed her ship near the United Nations' headquarters. American soldiers quickly swarmed around her ship, being of extra-terrestrial origin, but Evangelyn left the ship nevertheless with the shields still on in case somebody tried to shoot at her. Eventually, Evangelyn explained who she was and why she was there. At the end, the UN refused the peace proposals because they couldn't trust a much more advanced civilization and preferred to be on their own despite the threat of a possible [[Kal-71]] invasion on [[Earth]], which some government officials claimed was fearmongering.
+
+Evangelyn's health also worsened during this decade, requiring multiple surgeries as complications with her [ventricular assist device](https://en.wikipedia.org/wiki/Ventricular_assist_device) appeared alongside multiple infections from her previous expeditions outside [[Nova]] affecting her lungs and liver. Despite Novan medicine being very advanced, Evangelyn's health issues weren't reacting as effectively as hoped, leading to the acceleration of the development of the Cyborg Program, which could potentially improve her damaged organs with synthetic ones.
 
 However, despite the positive aspects of the Cyborg Program and its potential to give Evangelyn a healthy body and more years to live, Evangelyn denied the treatment multiple times at the start because the technology wasn't tested, and due to the lack of resources, she would have to carry a prototype.
 
@@ -45,12 +51,15 @@ This success set precedent for many Novans to transition to cyborgs, which also 
 
 Evangelyn had two surgeries during this time period, one at 2062 to improve her motor response using recent medical breakthroughs by [[Evlyn]] that helped understand the human brain better, and another at 2188, to upgrade most of her components for extra mobility and strength as well as the ability to add external modules to help with her missions.
 
-## 2256-2268
+### 2256-2267
 In April 2256, Evangelyn received word from [[Evlyn]] and her team that a new technology was available to further extend her life expectancy and powered by [[N-AI]], an experimental [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) program capable of holding a human conscience, which she agreed to as Evangelyn claimed she wasn't ready to die as despite her long life, many still needed her help.
 
 Since then, scientists worked for a couple of years to study and profile the information from Evangelyn's cyborg system, which gave them the needed data to localise the consciousness and transfer it to the new android body. In September 2258, the operation was complete, however, she faced many issues as [[N-AI]] had such as the lack of the ability to imagine or think abstract ideas, which basically made her engineering career much harder for her, as she struggled to invent new things or collaborate in other inventions.
 
-It wasn't until late 2268 when [[Alestra]], under the mentorship of [[Teryl]], wrote the basis of the [[NEμBOT]] program, a much more advanced adaptive self-improving system that solved all the issues [[N-AI]] had. This was successfully implemented in Skyra.
+It wasn't until late 2267 when [[Alestra]], under the mentorship of [[Teryl]], wrote the basis of the [[NEμBOT]] program, a much more advanced adaptive self-improving system that solved all the issues [[N-AI]] had. This was successfully implemented in Evangelyn, although future patches were needed including a critical patch to safeguard against logical paradoxes, which almost claimed Evangelyn's life.
+
+### 2268-2733
+By 2268, Evangelyn finally got used to her new body and mind, and [[NEμBOT]] started rewriting her hardware to better fit her conscience and her way of thinking. This opened the doors for many possibilities, as she possessed superhuman strength and processing speed.
 
 ## Personal life
 Skyra has been married to [[Crysrel]] and has 1 adoptive sisters, [[Aelia]], and is closely related to [[Alestra]], and [[Evlyn]].
