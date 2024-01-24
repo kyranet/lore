@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "696e5d86a08de467",
+    "type": "split",
+    "children": [
+      {
+        "id": "f379d380e28d369d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4092eb8d5cb1c1f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archid/characters/Skyra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "baf6784a8bdede4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "785ee5ca7e1d19df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9cba61d9cb2b38b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fc8266a133962cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "artificial super",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93422502ef2789ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "642a88a39d9465ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6297357bf164620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba1c7d51b038f147",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "archid/characters/Skyra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a706b99d7913d0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "archid/characters/Skyra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c08281f3face4ead",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "fa3d485602617e84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "archid/characters/Skyra.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4092eb8d5cb1c1f4",
+  "lastOpenFiles": [
+    "archid/technologies/N-AI.md",
+    "archid/technologies/NEμBOT.md",
+    "archid/technologies/Novan Heart.md",
+    "archid/technologies/Pure Energy.md",
+    "archid/characters/Skyra.md",
+    "archid/buildings/ArchId Ring.md",
+    "archid/characters/Aelia.md",
+    "archid/characters/Alestra.md",
+    "archid/characters/Crysrel.md",
+    "archid/characters/Evlyn.md",
+    "archid/characters/Iriss.md",
+    "archid/characters/Ring.md",
+    "archid/planets/Nova/Nova.md",
+    "archid/defences/Executioner.md",
+    "archid/planets/Nova/cities/Stella.md",
+    "archid/planets/Nova/cities/Terrene.md",
+    "archid/planets/Nova/cities/Vertia.md",
+    "archid/weapons/Drakhnet.md",
+    "archid/weapons/Mantis Scavenger.md",
+    "archid/weapons",
+    "archid/planets/Nova/Wonders.md",
+    "archid/planets/Nova/cities/Arc City.md",
+    "archid/planets/Nova/cities",
+    "archid/planets",
+    "archid/characters/Teryl.md",
+    "archid/buildings/Energy Condensation Centre.md",
+    "archid/buildings/Hexa 4.md",
+    "archid-2/buildings/Hexa 5.md",
+    "archid/buildings/Hexa 5.md",
+    "archid/characters/archid",
+    "archid/buildings/archid",
+    "archid/characters",
+    "archid/buildings",
+    "archid",
+    "archid/planets/Nova/ships",
+    "archid/characters/Untitled",
+    "Untitled.canvas"
+  ]
+}

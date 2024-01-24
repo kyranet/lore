@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#city  ",
+      "color": {
+        "a": 1,
+        "rgb": 5280111
+      }
+    },
+    {
+      "query": "tag:#defences  ",
+      "color": {
+        "a": 1,
+        "rgb": 13576746
+      }
+    },
+    {
+      "query": "tag:#river  ",
+      "color": {
+        "a": 1,
+        "rgb": 2931662
+      }
+    },
+    {
+      "query": "tag:#ocean  ",
+      "color": {
+        "a": 1,
+        "rgb": 2645207
+      }
+    },
+    {
+      "query": "tag:#character  ",
+      "color": {
+        "a": 1,
+        "rgb": 15511079
+      }
+    },
+    {
+      "query": "tag:#planet  ",
+      "color": {
+        "a": 1,
+        "rgb": 7158500
+      }
+    },
+    {
+      "query": "tag:#moon  ",
+      "color": {
+        "a": 1,
+        "rgb": 7895272
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.526041666666667,
+  "repelStrength": 10.0958333333333,
+  "linkStrength": 1,
+  "linkDistance": 162,
+  "scale": 0.7132754626224451,
+  "close": true
+}
