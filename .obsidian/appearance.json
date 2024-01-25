@@ -2,5 +2,7 @@
   "accentColor": "",
   "baseFontSize": 17,
   "translucency": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "Catppuccin",
+  "theme": "system"
 }

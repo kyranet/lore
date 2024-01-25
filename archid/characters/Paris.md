@@ -1,5 +1,5 @@
 ---
 tags:
   - archid
-  - ships
+  - character
 ---
