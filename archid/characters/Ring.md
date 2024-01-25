@@ -2,6 +2,10 @@
 tags:
   - archid
   - character
+age of birth: 3013-05-06
+gender: Agender
+pronouns:
+  - They/Them/Theirs
 ---
 > *Not to be confused with [[RingBuilder]].*
 

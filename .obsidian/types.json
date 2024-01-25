@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "gender": "text",
-    "race": "multitext"
+    "race": "multitext",
+    "age of birth": "date",
+    "pronouns": "multitext"
   }
 }

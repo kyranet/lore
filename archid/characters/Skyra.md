@@ -47,7 +47,7 @@ Evangelyn's health also worsened during this decade, requiring multiple surgerie
 
 However, despite the positive aspects of the Cyborg Program and its potential to give Evangelyn a healthy body and more years to live, Evangelyn denied the treatment multiple times at the start because the technology wasn't tested, and due to the lack of resources, she would have to carry a prototype.
 
-Eventually in February 2058, [[Aelia]] and [[Crysrel]] managed to convince Evangelyn to undergo the operation under the basis that he had very few years left to live, and that by offering herself to the program would help the researchers gather real time information, which they would be able to later use for further improvements. However, Evangelyn chose to proceed with the condition that her physical aspect must be preserved. ^8f7ffa
+Eventually in February 2058, [[Aelia]] and [[Crysrel]] managed to convince Evangelyn to undergo the operation under the basis that she had very few years left to live, and that by offering herself to the program would help the researchers gather real time information, which they would be able to later use for further improvements. However, Evangelyn chose to proceed with the condition that her physical aspect must be preserved.
 
 ### 2059-2255
 In January 2059, after a lot of preparation and preliminary tests, Evangelyn underwent the surgery, which turned to be a success. Her new body was fully mechanical, with only her human brain being preserved.
@@ -70,7 +70,7 @@ By 2268, Evangelyn finally got used to her new body and mind, and [[NEμBOT]] st
 
 As the resources for more [[NEμBOT]] androids became more readily available and the technology stabilised, more engineers transitioned over the years, leading in the number of computer breakthroughs increasing at a faster peace. In May 2279, Evangelyn volunteered for the prototype class — fifth in its time — [[Aerum]], which had a faster reaction time and an improved sensor capability. The prototype would be installed in 2281.
 
-In September 2279, Evangelyn, [[Crysrel]] and [[Alestra]] started a 6-month expedition at [[Xaminar]]'s abandoned capital planet in the search of blueprints and new technologies from the planet's research centres and laboratories. The expedition ended earlier in January 2280 when they found a prototype robot attached to a quantum computer, named [[Iriss]], who they would bring back to [[Nova]] alongside the quantum computer's core.
+In September 2279, Evangelyn, [[Crysrel]] and [[Alestra]] started a 6-month expedition at [[Xaminar]]'s abandoned capital planet, [[Xin]], in the search of blueprints and new technologies from the planet's research centres and laboratories. The expedition ended earlier in January 2280 when they found a prototype robot attached to a quantum computer, named [[Iriss]], who they would bring back to [[Nova]] alongside the quantum computer's core.
 
 ### 2282-3115
 In 2282, Evangelyn started her a career as a space explorer alongside her partner, [[Crysrel]], and together held a long expedition gathering a lot of data. The first expedition ended in 3015 due to technical issues in the starships, and arrived back at [[Nova]] in 3017 after 735 years of exploring strange new worlds, seeking out new life and new civilizations, boldly going where no Novan has gone before.
@@ -90,7 +90,7 @@ In 3188, Evangelyn was assigned a new mission to escort [[Teryl]] to Sector 0A, 
 
 In 3233, Evangelyn alongside [[Crysrel]], [[Aelia]], [[Alestra]], and [[Paris]], founded the [[Suntream Dynasty]], and all the members would wear a golden version of the logo at a visible place of their clothes to recognise their relationship as a family.
 
-In 3721, newly stablished librarians at the edge of [[ArchId]]'s explored area discovered the presence of a powerful object, and Evangelyn decided to check it out and determine whether or not it was dangerous. The unidentified object turned to be the [[Sxry]], a sword of unknown origin and unknown composition that generated a constant supply of energy, and full of markings on both sides, [[Suntream Dynasty]]'s logo among them.
+In 3721, newly stablished librarians at the edge of [[ArchId]]'s explored area discovered the presence of a space anomaly emanating a lot of energy. Evangelyn decided to check it out and determine whether or not it was dangerous. The unidentified object turned to be the [[Sxry]], a sword of unknown origin and unknown composition that generated a constant supply of energy, and full of markings on both sides, [[Suntream Dynasty]]'s logo among them.
 
 ### 3722-3744
 The discovery of the [[Sxry]] puzzled the [[Suntream Dynasty]], as nobody ever built it, and there were no records of any other civilization using the same logo. For this reason, the family carried many tests to determine the origin and composition of the sword to no avail, even with the [[ArchId Ring#ArchId Tower|ArchId Tower]]'s ever-growing highly detailed library collection database spanning the information from 65% of the Milky Way.
@@ -117,6 +117,30 @@ However, despite not finding any more [[Kal-71]] outposts, or any [[Gessherd]] c
 
 ### 3899-3952
 For slightly over 5 decades, Skyra was given the task to see new colonisers to their new homes and ensure their safety while the outposts were being built. For several occasions, Skyra had to respond to distress calls from trading cargo ships who were attacked by nearby enemy sources while transporting resources from [[Nova]] to the colonies.
+
+### 3953-4412
+> [!reminder]
+> 3953 is a vital year for [[ArchId]] after the a joint operation between the [[Adstra University]], the [[Technical University of Arc]], and the [[Autonomous University of Arc]] made a breakthrough that allowed the construction of a mechanism to extract energy from the core of [[Nova]]. This also allowed the construction of facilities to create limitless amounts of energy at higher rate than existing fusion generators.
+>
+> In 3955, the construction of the High Energy Novan Grid started at [[Arc City]] connecting to the three universities, and was completed in 4014. During this time, the universities made a second breakthrough, they condensed the generation of 6 months of the HENV's grid energy into a gaseous compound named [[Pure Energy]]. The concept was scaled up and plans for a massive building named [[Energy Condensation Centre]] northeast [[Arc City]]. The [[Energy Condensation Centre|ECC]] allowed the creation of a much more dense version of the compound, which was then named [[Pure Energy|Liquid Electronplasma]], or LEP for short.
+
+3953 was a start of a new energy era in [[ArchId]], and later in 4410, following many breakthroughs, the [[Novan Heart]] was invented and scheduled for implementation in many androids, Skyra among them.
+
+### 4413-33150
+In 4413, Skyra transitioned to [[Flamewing]] alongside 49 more androids. This upgrade from [[Electrawing]] was significant, as it included the [[Novan Heart]], an energy supply made of [[Pure Energy#Liquid Form|LEP]], and an upgraded processing array going from 2 neural and 4 arithmetic processors to 6 neural, 8 arithmetic, and a data processing processor, which was miniaturized using hyperspace compression technology. The last upgrade was that her capacitive artificial skin was replaced with a nanite mesh that projected hard light, which was not possible to achieve before due to energy consumption.
+
+Skyra also received a new starship, courtesy of [[Alestra]], the agile space superiority warship codenamed `WAFW-EEA-A1`, which could complete the travel from [[Nova]] to [[Earth]] in under one hour, compared to the 3 weeks of the previous design. The warship also featured 2 large backup [[Pure Energy#Liquid Form|LEP]] batteries which would be used to offload energy consumption from Skyra's heart and push speeds never seen before.
+
+Using this technology, Skyra started doing a series of expeditions further outside the galaxy, arriving at the [Canis Major Overdensity](https://en.wikipedia.org/wiki/Canis_Major_Overdensity)  before going back to [[Nova]] in 10004 allegedly for repairs and upgrades. In 10008, Skyra went out for a 10 year long vacation with [[Crysrel]] to celebrate their 10000th anniversary, finishing in 10018.
+
+In 10020, with an improved warship featuring hyperspace compressed data banks and more efficient [[Pure Energy#Liquid Form|LEP]] banks, Skyra started another expedition, this time to [Segue 1](https://en.wikipedia.org/wiki/Segue_1), then the nearby [Ursa Major II Dwarf](https://en.wikipedia.org/wiki/Ursa_Major_II_Dwarf), finishing at the [Sagittarius Dwarf Spheroidal Galaxy](https://en.wikipedia.org/wiki/Sagittarius_Dwarf_Spheroidal_Galaxy) before going back to [[Nova]] for refuelling and data uploading in 33150.
+
+### 33151-99350
+In 33151, [[Alestra]] told Skyra that she had prepared an exploration starship integrating a cutting-edge [[Archivist]]-class data collector with a [[Flamewing]]-class armour, an improved propulsion system, and a more efficient energy source. Skyra herself also got hardware improvements, mostly to implement the latest energy technologies for even higher efficiency, a pair of [[Noir Blades]] in her arms, and a cloak system to hide in case of an enemy invasion.
+
+Her new starship had additional room for a data processor, specifically a [[Librarian]]-class android to help sort out the raw data and optimising the data storage on the fly.
+
+In 33158, all preparations were complete, and so Skyra made her way to the [Andromeda Galaxy](https://en.wikipedia.org/wiki/Andromeda_Galaxy) alongside its satellite galaxies, making many new discoveries, charting the galaxies, and finding new civilizations. The expedition ended in 99350.
 
 ## Personal life
 Skyra has been married to [[Crysrel]] and has 1 adoptive sister, [[Aelia]], and is closely related to [[Alestra]], and [[Evlyn]].

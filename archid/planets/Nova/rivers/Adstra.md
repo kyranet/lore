@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Adstra
 tags:
   - river
   - nova

@@ -1,5 +1,5 @@
 ---
 tags:
-  - civilization
   - xaminar
+  - planet
 ---

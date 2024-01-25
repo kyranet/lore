@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Naeria
 tags:
   - defences
   - archid

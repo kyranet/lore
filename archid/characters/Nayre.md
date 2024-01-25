@@ -3,8 +3,7 @@ tags:
   - archid
   - character
 age of birth: 
-gender: Non-binary
+gender: Male
 pronouns:
-  - They/Them/Theirs
-  - She/Her/Hers
+  - He/Him/His
 ---
