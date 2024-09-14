@@ -14,5 +14,5 @@ The Technical University of Arc is the top technical university in [[Arc City]] 
 ## International
 
 ## Notable alumni
-- [[Alestra]], engineer and architect, inventor of [[NEμBOT]], main researcher of the [[Pure Energy|Pure Energy Transfer]] project, and lead designer of the [[Novan Heart]].
+- [[Alestra]], engineer and architect, inventor of [[NEμAI]], main researcher of the [[Pure Energy|Pure Energy Transfer]] project, and lead designer of the [[Novan Heart]].
 - [[Teryl]], librarian and engineer, mentored [[Alestra]] and [[Skyra]] during their engineering career.
