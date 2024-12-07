@@ -3,7 +3,7 @@ A **Core Conduit** is a rigid cable that goes from [[Nova]]'s core to the surfac
 ## Structure
 The exterior of a Core Conduit typically looks like an oversized [[Interlayer Pillar]], except it has wider tethers and a noticeable electromagnetic field.
 
-The interior is a hollow vacuum transporting energy via [[Pure Energy#Liquid Form|LEP]] which is charged at the [[Novan Layers#Core Layer|Core Layer]] and discharged at the other end, this is very similar to an stellar-sized [[Novan Heart]].
+The interior is a hollow vacuum transporting energy via [[Pure Energy#LEP|LEP]] which is charged at the [[Novan Layers#Core Layer|Core Layer]] and discharged at the other end, this is very similar to an stellar-sized [[Novan Heart]].
 
 ## Locations
 Because they take a lot of resources and time to build, and their output far exceeds most energy demands, only three Core Conduits have been built:

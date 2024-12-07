@@ -30,7 +30,7 @@ Due to the importance and rarity of the ECCs, they are also the most protected p
 - 30 high-range extreme-bandwidth omni-directional emitters
 - 108 extreme-range extreme-bandwidth directional emitters
 
-To keep up with the enormous energy demand of all its weapons at their highest fire rate and fire power, each ECC has a private energy reserve nicknamed "Armageddon Vault", which is a ready-to-use pre-processed collection of LEP, SEP, CSEP, and HCSEP.
+To keep up with the enormous energy demand of all its weapons at their highest fire rate and fire power, each ECC has a private energy reserve nicknamed "Armageddon Vault", which is a ready-to-use pre-processed collection of [[Pure Energy#LEP|LEP]], [[Pure Energy#SEP|SEP]], [[Pure Energy#CSEP|CSEP]], and [[Pure Energy#HCSEP|HCSEP]].
 
 Furthermore, both ECCs are also within operating radius of their respective city's defenses, bringing an additional layer of protection.
 
