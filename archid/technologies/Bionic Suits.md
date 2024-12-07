@@ -33,7 +33,7 @@ An air suit.
 > - If the user jumps and performs a glide angle of 45 degrees, the speed can increase to 132.6 m/s (477 km/h or 296 mph).
 
 ## Noir Aer
-Militar combat version of the [[#Aer]] suit, the main differences are:
+Military combat version of the [[#Aer]] suit, the main differences are:
 - Adds armour to the user.
 - Adds [[Directional Graviton Magnet]]s on both hands.
 - Replaces titanium wings for reinforced graphene wings.
@@ -49,7 +49,7 @@ A space suit.
 - Limited space flight capability.
 
 ## Noir Astra
-Militar combat version of the [[#Astra]] suit, the main differences are:
+Military combat version of the [[#Astra]] suit, the main differences are:
 - Adds armour to the user.
 - Adds [[Directional Graviton Magnet]]s on both hands.
 - Adds atmospheric propellers and shielding capable of performing an atmospheric entry.

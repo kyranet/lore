@@ -13,3 +13,4 @@ NEμAI is currently used in every [[ArchId]] android with only two exceptions:
 The usage of NEμAI allowed androids to jump from [[N-AI]]'s Stage 4 ([[AI Stages#Reactive AI|Reactive AI]]) to Stage 5 (pre-v1, [[AI Stages#Sentient AI|Sentient AI]]) and later to Stage 6 ([[AI Stages#Sentient ASI|Sentient ASI]]).
 
 ## Security
+The main security component in NEμAI's security is the [[Novan Firewall]] specification, which specifies how the instructions have to be prepared at the AI cores before they're spread to the rest of the components, and how those components acknowledge the short-lived security keys as correct.

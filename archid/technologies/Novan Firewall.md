@@ -3,7 +3,7 @@ aliases:
   - NF
 ---
 
-The *Novan Firewall* (NF) is a defense mechanism integrated into all Novan androids and protects them against external hacking. The system works by using a large cryptographic device inside the [[Novan Heart]] that is heavily insulated to obscure the parameters against external scanning, and delivers a new cryptographic key for all components to use to decrypt the instructions on a short interval, typically a second.
+The *Novan Firewall* (NF) is a passive defense mechanism integrated into all Novan androids and protects them against external hacking. The system works by using a large cryptographic device inside the [[Novan Heart]] that is heavily insulated to obscure the parameters against external scanning, and delivers a new cryptographic key for all components to use to decrypt the instructions on a short interval, typically a second.
 
 The fast key refresh rate forces Novan androids to come up with powerful cryptographic devices to minimise the time validating the requests as well as 
 
